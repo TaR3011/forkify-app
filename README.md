@@ -25,4 +25,4 @@ Forkify App is a feature-rich recipe application that fetches data from an exter
 
 You can try out the Forkify App directly from the hosted version:
 
-- [Play with Forkify App](https://forkify-app-turki.netlify.app/) (Replace with your actual live demo link)
+- [Play with Forkify App](https://forkify-app-turki.netlify.app/)
